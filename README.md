@@ -6,7 +6,9 @@ Este repositorio corresponde exclusivamente al backend del proyecto. El frontend
 
 🌐 Dominio
 
-⏳ Pendiente — se agregará una vez completado el despliegue en producción.
+- moviesexplorer.okzk.com
+- www.moviesexplorer.okzk.com
+- api.moviesexplorer.okzk.com
 
 🛠️ Tecnologías utilizadas
 Node.js + Express — servidor y enrutamiento
